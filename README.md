@@ -1,12 +1,15 @@
-## Hi, I'm Michael Prange 👋<br>
-
-🎓 **Software Engineering** Student at **Belgium Campus iTversity** <br>
-👓 Passionate about **AR**, **VR** and **XR**<br>
+<h1> Hi, I'm Michael Prange 👋 </h1>
 <hr>
-## 🚀 Skills
+<h3>About Me</h3>
 <ul>
-<li> Programming: C#, Delphi, SQL, HTML, CSS, JavaScript </li>
-<li> Tools: Git, Docker, Power BI, Arduino </li>
-<li> Cloud: AWS, Azure, Supabase </li>
+<li>🎓 <b>Software Engineering</b> Student at <b>Belgium Campus iTversity</b></li>
+<li>👓 Passionate about <b>AR</b>, <b>VR</b> and <b>XR</b></li>
+</ul>
+<hr>
+<h3>🚀 Skills</h3>
+<ul>
+<li> Programming: <b>C#, Delphi, SQL, HTML, CSS, JavaScript</b> </li>
+<li> Tools: <b>Git, Docker, Power BI, Arduino</b> </li>
+<li> Cloud: <b>AWS, Azure, Supabase</b> </li>
 </ul>
 <hr>
