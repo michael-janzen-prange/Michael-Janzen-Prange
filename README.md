@@ -5,6 +5,6 @@
 🚀 Skills
 <ul>
 <li> Programming: C#, Delphi, SQL, HTML, CSS, JavaScript </li>
-- Tools: Git, Docker, Power BI, Arduino
-- Cloud: AWS, Azure, Supabase 
+<li> Tools: Git, Docker, Power BI, Arduino </li>
+<li> Cloud: AWS, Azure, Supabase </li>
 </ul>
