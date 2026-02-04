@@ -1,4 +1,8 @@
 ## Hi, I'm Michael Prange 👋
 
-**michael-janzen-prange/Michael-Janzen-Prange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🎓 **Software Engineering** Student at **Belgium Campus iTversity** 
+👓 Passionate about **AR**, **VR** and **XR**
+🚀 Skills
+o        Programming: C#, Delphi, SQL, HTML, CSS, JavaScript
+o        Tools: Git, Docker, Power BI, Arduino
+o        Cloud: AWS, Azure, Supabase 
